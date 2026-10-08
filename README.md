@@ -1,0 +1,2 @@
+# Jaghbot
+Bot error
